@@ -1,4 +1,4 @@
-# NutriAI: Personalized Nutrition Recommendation System
+# NutriAI: Evidence Backed Smart Nutrition System
 
 ## System Architecture
 
